@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lostboy1518
+- 👋 Hi, I’m Christopher Kennedy, aka @lostboy1518
 - 👀 I’m interested in coding, chess, math, Pilates, tennis, and more!
 - 🌱 I’m currently learning C++ specifically with Unreal Engine 4, and I'm also studying at UW-Madison.
 - 💞️ I’m looking to collaborate on whatever!
